@@ -37,5 +37,9 @@ ChatFluent is a real-time, full-stack chat application that allows users to regi
 - **Authentication**: JWT (JSON Web Token)
 - **Real-Time**: Custom streaming implementation (possibly WebSockets)
 
+### 🔐 Login Page
+![Login Page](https://github.com/Yuvgithub01/chatapp/blob/153bed146da0e71c82393d1c8a39054b01024dad/Screenshot%202025-07-05%20142543.png)
 
+### 💬 Chat UI
+![Chat Interface](https://github.com/Yuvgithub01/chatapp/blob/153bed146da0e71c82393d1c8a39054b01024dad/Screenshot%202025-07-05%20142705.png)
 
